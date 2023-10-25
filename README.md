@@ -1,4 +1,4 @@
-# Exercise - Deploy
+# Exercise - Back-end Deploy
 
 Demonstrative exercise from Week #11. Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
 
